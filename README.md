@@ -157,6 +157,6 @@ No known bugs at this time.
 Huseini Yusif - [Github](https://github.com/yusifhuseini)  
 Esther Adedokun - [Github](https://github.com/EbunAdee)  
 
-Second part of Airbnb: Joann Vuong
+Second part of Airbnb: Huseini Yusif and Esther Adedokun.
 ## License
 Public Domain. No copy write protection. 
